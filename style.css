@@ -1,0 +1,63 @@
+body {
+    background: url(img/webb.png);
+}
+
+h2 {
+    font-family: 'bellota text';
+}
+.header {
+    font-family: 'bellota text';
+    height: 120px;
+}
+.home {
+    text-decoration: none !important; 
+    font-style: normal;
+    color: black;
+}
+.home:hover {
+    color: black;
+}
+a img {
+    opacity: 80%;
+    height: 350px;
+    width: 350px;
+    border: solid 1px rgb(72, 241, 137);
+    border-radius: 10px;
+}
+.pro {
+    height: 350px;
+    width: 350px;
+    border: solid 1px rgb(72, 241, 137);
+    border-radius: 10px;
+}
+.header {
+    border-bottom: solid 1px rgb(36, 43, 48);
+}
+
+a .img1:hover {
+    box-shadow: 0px 0px 5px 5px burlywood;
+}
+
+.pro:hover {
+    box-shadow: 0px 0px 5px 5px magenta;
+}
+
+.img2 {
+    position: relative;
+    top: 15px;
+    height: 70px;
+    width: 70px;
+    box-shadow: 0px 0px 5px 5px burlywood;
+}
+.img2:hover {
+    box-shadow: 0px 0px 5px 5px black;
+}
+.f {
+    position: relative;
+    left: 45px;
+}  
+.t {
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
